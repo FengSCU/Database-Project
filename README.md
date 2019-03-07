@@ -1,1 +1,1 @@
-# This folder contains several projects for the class at SCU
+# This folder contains SQL project for the class
